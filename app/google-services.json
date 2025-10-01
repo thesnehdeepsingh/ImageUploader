@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096803999233",
+    "project_id": "image-uploader-e4ee1",
+    "storage_bucket": "image-uploader-e4ee1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096803999233:android:bfc5f123fcda4176dd6a00",
+        "android_client_info": {
+          "package_name": "com.esfersoft.imageuploader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnutnULisIOQ7lOnt6BeSoq5Yv8ITJr-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
